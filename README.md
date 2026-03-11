@@ -1,2 +1,1 @@
-working on agent system design 
-streak maintaing
+MCP Heavy Project
